@@ -1,0 +1,35 @@
+{
+"id": 0,
+"name": "Noah's Ice Cream Shop",
+"web": "www.noahscream.com",
+"description": "The best flavors specializing in sorbet",
+"flavors": ["rainbow sherbet", "lime sherbet", "orange sherbet", "vanilla",
+"addresses": [
+  {
+    "addressid": "0",
+    "number": "12549",
+    "line1": "kirklin court",
+    "line2": "Rancho Cordova",
+    "postcode": "95742",
+    "country": "United States"
+   }  
+]
+},
+
+{
+"id": 1,
+"name": "Sally's Ice Cream Shop",
+"web": "www.sallbear.com",
+"description": "Good flavors and friendly service",
+"flavors": ["vanilla", "strawberry", "taro", "rocky road",
+"addresses": [
+  {
+    "addressid": "0",
+    "number": "12549",
+    "line1": "kirklin court",
+    "line2": "Rancho Cordova",
+    "postcode": "95742",
+    "country": "United States"
+   }  
+]
+},
